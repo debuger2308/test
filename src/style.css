@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+    table-layout: auto;
+    width: 100%;
+    text-align: center;
+    white-space: nowrap;
+    border-spacing: 10px 20px;
+}
+thead{
+    margin-bottom: 100px;
+}
+.table__title {
+    margin-left: 50px;
+    font-size: 36px;
+    font-weight: 800;
+}
+.table__title-row {
+    font-weight: 600;
+    font-size: 20px;
+}
+.row__title{
+    font-weight: 600;
+    font-size: 20px;
+}
+.row__subtitle{
+    font-weight: 400;
+    color: #5d5d5d;
+}
+.tow__price{
+    font-weight: 800;
+    font-size: 20px;
+}
